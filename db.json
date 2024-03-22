@@ -3,11 +3,7 @@
     {
       "adult": false,
       "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
-      "genre_ids": [
-        878,
-        10749,
-        35
-      ],
+      "genre_ids": [878, 10749, 35],
       "id": 792307,
       "original_language": "en",
       "original_title": "Poor Things",
@@ -23,13 +19,7 @@
     {
       "adult": false,
       "backdrop_path": "/gJL5kp5FMopB2sN4WZYnNT5uO0u.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        35,
-        10751
-      ],
+      "genre_ids": [28, 12, 16, 35, 10751],
       "id": 1011985,
       "original_language": "en",
       "original_title": "Kung Fu Panda 4",
@@ -45,11 +35,7 @@
     {
       "adult": false,
       "backdrop_path": "/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
-      "genre_ids": [
-        28,
-        12,
-        35
-      ],
+      "genre_ids": [28, 12, 35],
       "id": 848538,
       "original_language": "en",
       "original_title": "Argylle",
@@ -65,11 +51,7 @@
     {
       "adult": false,
       "backdrop_path": "/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
-      "genre_ids": [
-        28,
-        27,
-        53
-      ],
+      "genre_ids": [28, 27, 53],
       "id": 1096197,
       "original_language": "pt",
       "original_title": "No Way Up",
@@ -85,11 +67,7 @@
     {
       "adult": false,
       "backdrop_path": "/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
-      "genre_ids": [
-        16,
-        35,
-        878
-      ],
+      "genre_ids": [16, 35, 878],
       "id": 1239251,
       "original_language": "en",
       "original_title": "Megamind vs. the Doom Syndicate",
@@ -105,11 +83,7 @@
     {
       "adult": false,
       "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
-      "genre_ids": [
-        878,
-        28,
-        80
-      ],
+      "genre_ids": [878, 28, 80],
       "id": 932420,
       "original_language": "en",
       "original_title": "Code 8 Part II",
@@ -125,10 +99,7 @@
     {
       "adult": false,
       "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
+      "genre_ids": [18, 36],
       "id": 872585,
       "original_language": "en",
       "original_title": "Oppenheimer",
@@ -144,10 +115,7 @@
     {
       "adult": false,
       "backdrop_path": "/8uVKfOJUhmybNsVh089EqLHUYEG.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
+      "genre_ids": [878, 12],
       "id": 693134,
       "original_language": "en",
       "original_title": "Dune: Part Two",
@@ -163,13 +131,7 @@
     {
       "adult": false,
       "backdrop_path": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        35,
-        10751
-      ],
+      "genre_ids": [16, 28, 12, 35, 10751],
       "id": 940551,
       "original_language": "en",
       "original_title": "Migration",
@@ -185,11 +147,7 @@
     {
       "adult": false,
       "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
-      "genre_ids": [
-        28,
-        53,
-        10752
-      ],
+      "genre_ids": [28, 53, 10752],
       "id": 969492,
       "original_language": "en",
       "original_title": "Land of Bad",
@@ -205,10 +163,7 @@
     {
       "adult": false,
       "backdrop_path": "/cu5Qk2QHxOyyMrD3Bq93DxgmJer.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
+      "genre_ids": [28, 80],
       "id": 1046090,
       "original_language": "zh",
       "original_title": "周處除三害",
@@ -224,11 +179,7 @@
     {
       "adult": false,
       "backdrop_path": "/midCh3iVxaG3dUOrP9TnUpNcGm.jpg",
-      "genre_ids": [
-        16,
-        12,
-        14
-      ],
+      "genre_ids": [16, 12, 14],
       "id": 508883,
       "original_language": "ja",
       "original_title": "君たちはどう生きるか",
@@ -244,11 +195,7 @@
     {
       "adult": false,
       "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
-      "genre_ids": [
-        14,
-        12,
-        28
-      ],
+      "genre_ids": [14, 12, 28],
       "id": 763215,
       "original_language": "en",
       "original_title": "Damsel",
@@ -264,10 +211,7 @@
     {
       "adult": false,
       "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
+      "genre_ids": [35, 10749],
       "id": 1072790,
       "original_language": "en",
       "original_title": "Anyone But You",
@@ -283,10 +227,7 @@
     {
       "adult": false,
       "backdrop_path": "/hIUs8RzKlrzgbWxn2EpWmiTFqCc.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
+      "genre_ids": [878, 53],
       "id": 870404,
       "original_language": "en",
       "original_title": "Meteor",
@@ -302,12 +243,7 @@
     {
       "adult": false,
       "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
-      "genre_ids": [
-        10751,
-        878,
-        28,
-        35
-      ],
+      "genre_ids": [10751, 878, 28, 35],
       "id": 1094556,
       "original_language": "en",
       "original_title": "The Thundermans Return",
@@ -323,10 +259,7 @@
     {
       "adult": false,
       "backdrop_path": "/G56AzECyTDp63sE7CbJ6AEBKhF.jpg",
-      "genre_ids": [
-        37,
-        28
-      ],
+      "genre_ids": [37, 28],
       "id": 851925,
       "original_language": "en",
       "original_title": "Death Alley",
@@ -342,10 +275,7 @@
     {
       "adult": false,
       "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
+      "genre_ids": [878, 12],
       "id": 438631,
       "original_language": "en",
       "original_title": "Dune",
@@ -361,10 +291,7 @@
     {
       "adult": false,
       "backdrop_path": "/wqmemsQb8xcLVQkwt8WTYnMIYms.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 1217409,
       "original_language": "es",
       "original_title": "Jaque Mate",
@@ -380,12 +307,7 @@
     {
       "adult": false,
       "backdrop_path": "/s9YTxwaByYeoSqugYjJJtZjMRAG.jpg",
-      "genre_ids": [
-        28,
-        27,
-        35,
-        53
-      ],
+      "genre_ids": [28, 27, 35, 53],
       "id": 1211483,
       "original_language": "en",
       "original_title": "Skal - Fight for Survival",
@@ -401,11 +323,7 @@
     {
       "adult": false,
       "backdrop_path": "/sR0SpCrXamlIkYMdfz83sFn5JS6.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
+      "genre_ids": [28, 878, 12],
       "id": 823464,
       "original_language": "en",
       "original_title": "Godzilla x Kong: The New Empire",
@@ -421,11 +339,7 @@
     {
       "adult": false,
       "backdrop_path": "/sKdDC38FHuPvEsRgIzMEQE6ydol.jpg",
-      "genre_ids": [
-        53,
-        27,
-        18
-      ],
+      "genre_ids": [53, 27, 18],
       "id": 714567,
       "original_language": "ru",
       "original_title": "#хочувигру",
@@ -441,11 +355,7 @@
     {
       "adult": false,
       "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
-      "genre_ids": [
-        80,
-        28,
-        53
-      ],
+      "genre_ids": [80, 28, 53],
       "id": 1227816,
       "original_language": "en",
       "original_title": "Red Right Hand",
@@ -461,9 +371,7 @@
     {
       "adult": false,
       "backdrop_path": "/5lhkwyuxSyElspMjAVZPUFg20b3.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 1058078,
       "original_language": "sv",
       "original_title": "Karusell",
@@ -479,11 +387,7 @@
     {
       "adult": false,
       "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
+      "genre_ids": [878, 12, 28],
       "id": 609681,
       "original_language": "en",
       "original_title": "The Marvels",
@@ -499,11 +403,7 @@
     {
       "adult": false,
       "backdrop_path": "/ruKNVJFViAyR4jguVboFXTskMOe.jpg",
-      "genre_ids": [
-        53,
-        28,
-        27
-      ],
+      "genre_ids": [53, 28, 27],
       "id": 1028703,
       "original_language": "en",
       "original_title": "The OctoGames",
@@ -519,11 +419,7 @@
     {
       "adult": false,
       "backdrop_path": "/mmpnUZebJhFXewEUuP7OGM4GuNF.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
+      "genre_ids": [878, 12, 18],
       "id": 636706,
       "original_language": "en",
       "original_title": "Spaceman",
@@ -539,9 +435,7 @@
     {
       "adult": false,
       "backdrop_path": "/xHd6rARprd4woZinkziIntiTSZD.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 854188,
       "original_language": "en",
       "original_title": "The Kindred",
@@ -557,11 +451,7 @@
     {
       "adult": false,
       "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
-      "genre_ids": [
-        28,
-        53,
-        18
-      ],
+      "genre_ids": [28, 53, 18],
       "id": 866398,
       "original_language": "en",
       "original_title": "The Beekeeper",
@@ -577,11 +467,7 @@
     {
       "adult": false,
       "backdrop_path": "/mOQV573Tr0WxI2VVOLKwtfaRGZH.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        12
-      ],
+      "genre_ids": [10749, 35, 12],
       "id": 949429,
       "original_language": "th",
       "original_title": "ผจญภัยล่าขุมทรัพย์หมื่นลี้",
@@ -597,11 +483,7 @@
     {
       "adult": false,
       "backdrop_path": "/xStFwzqBWDRyUz3BldisuUY7kjW.jpg",
-      "genre_ids": [
-        14,
-        12,
-        10770
-      ],
+      "genre_ids": [14, 12, 10770],
       "id": 885303,
       "original_language": "it",
       "original_title": "I viaggiatori",
@@ -617,11 +499,7 @@
     {
       "adult": false,
       "backdrop_path": "/oijKQd7jcaAwq3aLoUiGo1abeV3.jpg",
-      "genre_ids": [
-        53,
-        27,
-        878
-      ],
+      "genre_ids": [53, 27, 878],
       "id": 949697,
       "original_language": "th",
       "original_title": "The One Hundred",
@@ -637,11 +515,7 @@
     {
       "adult": false,
       "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
-      "genre_ids": [
-        28,
-        18,
-        80
-      ],
+      "genre_ids": [28, 18, 80],
       "id": 944401,
       "original_language": "en",
       "original_title": "Dogman",
@@ -657,10 +531,7 @@
     {
       "adult": false,
       "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 931642,
       "original_language": "en",
       "original_title": "Lights Out",
@@ -676,11 +547,7 @@
     {
       "adult": false,
       "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
+      "genre_ids": [28, 12, 14],
       "id": 572802,
       "original_language": "en",
       "original_title": "Aquaman and the Lost Kingdom",
@@ -696,9 +563,7 @@
     {
       "adult": false,
       "backdrop_path": "/xiAyufulheAWDWuZPVvV3Q9LIXc.jpg",
-      "genre_ids": [
-        28
-      ],
+      "genre_ids": [28],
       "id": 799710,
       "original_language": "ko",
       "original_title": "더 와일드: 야수들의 전쟁",
@@ -714,12 +579,7 @@
     {
       "adult": false,
       "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14,
-        12
-      ],
+      "genre_ids": [16, 10751, 14, 12],
       "id": 1022796,
       "original_language": "en",
       "original_title": "Wish",
@@ -735,11 +595,7 @@
     {
       "adult": false,
       "backdrop_path": "/88jdqvwNV6uJx8Y9V4zvoN30MuY.jpg",
-      "genre_ids": [
-        878,
-        27,
-        28
-      ],
+      "genre_ids": [878, 27, 28],
       "id": 940721,
       "original_language": "ja",
       "original_title": "ゴジラ-1.0",
@@ -755,10 +611,7 @@
     {
       "adult": false,
       "backdrop_path": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg",
-      "genre_ids": [
-        878,
-        28
-      ],
+      "genre_ids": [878, 28],
       "id": 933131,
       "original_language": "ko",
       "original_title": "황야",
@@ -774,10 +627,7 @@
     {
       "adult": false,
       "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
-      "genre_ids": [
-        80,
-        28
-      ],
+      "genre_ids": [80, 28],
       "id": 370464,
       "original_language": "en",
       "original_title": "The Masked Saint",
@@ -793,12 +643,7 @@
     {
       "adult": false,
       "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
-      "genre_ids": [
-        16,
-        35,
-        18,
-        10751
-      ],
+      "genre_ids": [16, 35, 18, 10751],
       "id": 838240,
       "original_language": "xx",
       "original_title": "Robot Dreams",
@@ -814,13 +659,7 @@
     {
       "adult": false,
       "backdrop_path": "/7gEfOcnoP2wAgtd7FYPsJopvJZ1.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18,
-        12,
-        14
-      ],
+      "genre_ids": [16, 10751, 18, 12, 14],
       "id": 1022789,
       "original_language": "en",
       "original_title": "Inside Out 2",
@@ -836,10 +675,7 @@
     {
       "adult": false,
       "backdrop_path": "/i1Lx1Whonfh8awXkYx3bGinK2V8.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 872542,
       "original_language": "en",
       "original_title": "Agent Game",
@@ -855,9 +691,7 @@
     {
       "adult": false,
       "backdrop_path": "/jkBFGhuJKLH8VurXqVKQ2mxvVYC.jpg",
-      "genre_ids": [
-        37
-      ],
+      "genre_ids": [37],
       "id": 1079394,
       "original_language": "en",
       "original_title": "The Five",
@@ -873,10 +707,7 @@
     {
       "adult": false,
       "backdrop_path": "/zBm5QbduooRO8XYZB19SP1JJZe3.jpg",
-      "genre_ids": [
-        16,
-        10751
-      ],
+      "genre_ids": [16, 10751],
       "id": 1205781,
       "original_language": "en",
       "original_title": "Dora: Say Hola to Adventure!",
@@ -892,10 +723,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        16,
-        14
-      ],
+      "genre_ids": [16, 14],
       "id": 59300,
       "original_language": "ja",
       "original_title": "デンゼルを中心としたオリジナルアニメ",
@@ -911,13 +739,7 @@
     {
       "adult": false,
       "backdrop_path": "/d1RHScaZc7I8j0lDke1c4AxI435.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        10751,
-        35
-      ],
+      "genre_ids": [28, 12, 16, 10751, 35],
       "id": 9502,
       "original_language": "en",
       "original_title": "Kung Fu Panda",
@@ -933,11 +755,7 @@
     {
       "adult": false,
       "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
+      "genre_ids": [28, 80, 53],
       "id": 385687,
       "original_language": "en",
       "original_title": "Fast X",
@@ -953,10 +771,7 @@
     {
       "adult": false,
       "backdrop_path": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 1029575,
       "original_language": "en",
       "original_title": "The Family Plan",
@@ -972,10 +787,7 @@
     {
       "adult": false,
       "backdrop_path": "/oK29TJvtWzzYFWWPBq1RGfb8FMS.jpg",
-      "genre_ids": [
-        27,
-        878
-      ],
+      "genre_ids": [27, 878],
       "id": 1207413,
       "original_language": "es",
       "original_title": "Dark Parasite",
@@ -991,11 +803,7 @@
     {
       "adult": false,
       "backdrop_path": "/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg",
-      "genre_ids": [
-        10402,
-        36,
-        18
-      ],
+      "genre_ids": [10402, 36, 18],
       "id": 802219,
       "original_language": "en",
       "original_title": "Bob Marley: One Love",
@@ -1011,11 +819,7 @@
     {
       "adult": false,
       "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-      "genre_ids": [
-        18,
-        878,
-        28
-      ],
+      "genre_ids": [18, 878, 28],
       "id": 695721,
       "original_language": "en",
       "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -1031,11 +835,7 @@
     {
       "adult": false,
       "backdrop_path": "/ba9TgAO4I8RyA2LljzR3MspHaM9.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
+      "genre_ids": [28, 878, 53],
       "id": 799155,
       "original_language": "hi",
       "original_title": "Attack",
@@ -1051,9 +851,7 @@
     {
       "adult": false,
       "backdrop_path": "/d2d0njdp19FbuOGTW1dbrVMJpTH.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 980137,
       "original_language": "es",
       "original_title": "Papá o Mamá",
@@ -1069,10 +867,7 @@
     {
       "adult": false,
       "backdrop_path": "/spsQPNKFwrvpFs7qyQz24Oh0Mhc.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
+      "genre_ids": [27, 53],
       "id": 823491,
       "original_language": "en",
       "original_title": "Out of Darkness",
@@ -1088,12 +883,7 @@
     {
       "adult": false,
       "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [16, 28, 12, 878],
       "id": 569094,
       "original_language": "en",
       "original_title": "Spider-Man: Across the Spider-Verse",
@@ -1109,11 +899,7 @@
     {
       "adult": false,
       "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
-      "genre_ids": [
-        9648,
-        27,
-        53
-      ],
+      "genre_ids": [9648, 27, 53],
       "id": 838209,
       "original_language": "ko",
       "original_title": "파묘",
@@ -1129,11 +915,7 @@
     {
       "adult": false,
       "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [28, 12, 878],
       "id": 667538,
       "original_language": "en",
       "original_title": "Transformers: Rise of the Beasts",
@@ -1149,9 +931,7 @@
     {
       "adult": false,
       "backdrop_path": "/rmV6gnPC9LqNWOKzwd8jQe8Ljcw.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 1196646,
       "original_language": "en",
       "original_title": "Camp Pleasant Lake",
@@ -1167,10 +947,7 @@
     {
       "adult": false,
       "backdrop_path": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
+      "genre_ids": [27, 53],
       "id": 983526,
       "original_language": "no",
       "original_title": "Leave",
@@ -1186,11 +963,7 @@
     {
       "adult": false,
       "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
+      "genre_ids": [878, 12, 28],
       "id": 76600,
       "original_language": "en",
       "original_title": "Avatar: The Way of Water",
@@ -1206,13 +979,7 @@
     {
       "adult": false,
       "backdrop_path": "/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        35,
-        10751
-      ],
+      "genre_ids": [28, 12, 16, 35, 10751],
       "id": 140300,
       "original_language": "en",
       "original_title": "Kung Fu Panda 3",
@@ -1228,11 +995,7 @@
     {
       "adult": false,
       "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [28, 12, 878],
       "id": 634649,
       "original_language": "en",
       "original_title": "Spider-Man: No Way Home",
@@ -1248,11 +1011,7 @@
     {
       "adult": false,
       "backdrop_path": "/9xvBGz7wYjK5faoeXDIaBB9EYDx.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        35
-      ],
+      "genre_ids": [10749, 18, 35],
       "id": 1139566,
       "original_language": "es",
       "original_title": "A través de mi ventana 3: A través de tu mirada",
@@ -1268,10 +1027,7 @@
     {
       "adult": false,
       "backdrop_path": "/u0P5drNyTrZoGyJONPcZGbv1mNP.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 1124127,
       "original_language": "en",
       "original_title": "Air Force One Down",
@@ -1287,11 +1043,7 @@
     {
       "adult": false,
       "backdrop_path": "/33pMXav77ICRnceEBLhL8lXTywv.jpg",
-      "genre_ids": [
-        18,
-        36,
-        10752
-      ],
+      "genre_ids": [18, 36, 10752],
       "id": 753342,
       "original_language": "en",
       "original_title": "Napoleon",
@@ -1307,11 +1059,7 @@
     {
       "adult": false,
       "backdrop_path": "/qPwA2tXV8fGXfOVYu3aIgctzqtB.jpg",
-      "genre_ids": [
-        14,
-        12,
-        35
-      ],
+      "genre_ids": [14, 12, 35],
       "id": 967847,
       "original_language": "en",
       "original_title": "Ghostbusters: Frozen Empire",
@@ -1327,11 +1075,7 @@
     {
       "adult": false,
       "backdrop_path": "/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
+      "genre_ids": [28, 53, 80],
       "id": 603692,
       "original_language": "en",
       "original_title": "John Wick: Chapter 4",
@@ -1347,12 +1091,7 @@
     {
       "adult": false,
       "backdrop_path": "/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35,
-        14
-      ],
+      "genre_ids": [16, 10751, 35, 14],
       "id": 1139829,
       "original_language": "en",
       "original_title": "Orion and the Dark",
@@ -1368,9 +1107,7 @@
     {
       "adult": false,
       "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 1022690,
       "original_language": "en",
       "original_title": "Ricky Stanicky",
@@ -1386,10 +1123,7 @@
     {
       "adult": false,
       "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 897087,
       "original_language": "en",
       "original_title": "Freelance",
@@ -1405,10 +1139,7 @@
     {
       "adult": false,
       "backdrop_path": "/q6y5cjHFiFBEb7ILYrEllOiC4ww.jpg",
-      "genre_ids": [
-        27,
-        18
-      ],
+      "genre_ids": [27, 18],
       "id": 880100,
       "original_language": "en",
       "original_title": "Fear",
@@ -1424,11 +1155,7 @@
     {
       "adult": false,
       "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53
-      ],
+      "genre_ids": [28, 12, 53],
       "id": 299054,
       "original_language": "en",
       "original_title": "Expend4bles",
@@ -1444,10 +1171,7 @@
     {
       "adult": false,
       "backdrop_path": "/8GixN6c1VWOWDwm32ehb0ufeal.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
+      "genre_ids": [18, 10749],
       "id": 1241748,
       "original_language": "tl",
       "original_title": "Kalikot",
@@ -1463,10 +1187,7 @@
     {
       "adult": false,
       "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
-      "genre_ids": [
-        35,
-        12
-      ],
+      "genre_ids": [35, 12],
       "id": 346698,
       "original_language": "en",
       "original_title": "Barbie",
@@ -1482,11 +1203,7 @@
     {
       "adult": false,
       "backdrop_path": "/zUY1WawCBY8y6YBoiUCAmUorXfx.jpg",
-      "genre_ids": [
-        14,
-        28,
-        12
-      ],
+      "genre_ids": [14, 28, 12],
       "id": 528656,
       "original_language": "zh",
       "original_title": "战神纪",
@@ -1502,10 +1219,7 @@
     {
       "adult": false,
       "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 575264,
       "original_language": "en",
       "original_title": "Mission: Impossible - Dead Reckoning Part One",
@@ -1521,9 +1235,7 @@
     {
       "adult": false,
       "backdrop_path": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
-      "genre_ids": [
-        28
-      ],
+      "genre_ids": [28],
       "id": 1212073,
       "original_language": "de",
       "original_title": "60 Minuten",
@@ -1539,14 +1251,7 @@
     {
       "adult": false,
       "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
-      "genre_ids": [
-        16,
-        12,
-        14,
-        35,
-        28,
-        10751
-      ],
+      "genre_ids": [16, 12, 14, 35, 28, 10751],
       "id": 315162,
       "original_language": "en",
       "original_title": "Puss in Boots: The Last Wish",
@@ -1562,11 +1267,7 @@
     {
       "adult": false,
       "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
-      "genre_ids": [
-        28,
-        878,
-        27
-      ],
+      "genre_ids": [28, 878, 27],
       "id": 615656,
       "original_language": "en",
       "original_title": "Meg 2: The Trench",
@@ -1582,11 +1283,7 @@
     {
       "adult": false,
       "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
-      "genre_ids": [
-        80,
-        36,
-        18
-      ],
+      "genre_ids": [80, 36, 18],
       "id": 466420,
       "original_language": "en",
       "original_title": "Killers of the Flower Moon",
@@ -1602,11 +1299,7 @@
     {
       "adult": false,
       "backdrop_path": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
-      "genre_ids": [
-        28,
-        35,
-        80
-      ],
+      "genre_ids": [28, 35, 80],
       "id": 955916,
       "original_language": "en",
       "original_title": "Lift",
@@ -1622,14 +1315,7 @@
     {
       "adult": false,
       "backdrop_path": "/pA4sNvcohTNPx3AhEEeIu8gSt7h.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        14,
-        10749,
-        12
-      ],
+      "genre_ids": [16, 35, 10751, 14, 10749, 12],
       "id": 976573,
       "original_language": "en",
       "original_title": "Elemental",
@@ -1645,13 +1331,7 @@
     {
       "adult": false,
       "backdrop_path": "/zMtBbNhROxPf0urHSBoZUnqJEwT.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        10402,
-        14,
-        35
-      ],
+      "genre_ids": [16, 10751, 10402, 14, 35],
       "id": 901362,
       "original_language": "en",
       "original_title": "Trolls Band Together",
@@ -1667,10 +1347,7 @@
     {
       "adult": false,
       "backdrop_path": "/1QuloKG6VhFB94BhjX7VknKsNmZ.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
+      "genre_ids": [18, 53],
       "id": 1026436,
       "original_language": "en",
       "original_title": "Miller's Girl",
@@ -1686,13 +1363,7 @@
     {
       "adult": false,
       "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        12,
-        18,
-        35
-      ],
+      "genre_ids": [16, 10751, 12, 18, 35],
       "id": 150540,
       "original_language": "en",
       "original_title": "Inside Out",
@@ -1708,9 +1379,7 @@
     {
       "adult": false,
       "backdrop_path": "/dmiN2rakG9hZW04Xx7mHOoHTOyD.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 673593,
       "original_language": "en",
       "original_title": "Mean Girls",
@@ -1726,11 +1395,7 @@
     {
       "adult": false,
       "backdrop_path": "/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
-      "genre_ids": [
-        878,
-        18,
-        28
-      ],
+      "genre_ids": [878, 18, 28],
       "id": 848326,
       "original_language": "en",
       "original_title": "Rebel Moon - Part One: A Child of Fire",
@@ -1746,11 +1411,7 @@
     {
       "adult": false,
       "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
+      "genre_ids": [12, 28, 878],
       "id": 299536,
       "original_language": "en",
       "original_title": "Avengers: Infinity War",
@@ -1766,11 +1427,7 @@
     {
       "adult": false,
       "backdrop_path": "/cazclcMhoYpHbuZb00bvby7xcXY.jpg",
-      "genre_ids": [
-        53,
-        28,
-        18
-      ],
+      "genre_ids": [53, 28, 18],
       "id": 1183905,
       "original_language": "de",
       "original_title": "Trunk - Locked In",
@@ -1786,11 +1443,7 @@
     {
       "adult": false,
       "backdrop_path": "/y3A08SqEHqIvelH304qz4GUTLnx.jpg",
-      "genre_ids": [
-        80,
-        53,
-        28
-      ],
+      "genre_ids": [80, 53, 28],
       "id": 982940,
       "original_language": "en",
       "original_title": "Due Justice",
@@ -1806,10 +1459,7 @@
     {
       "adult": false,
       "backdrop_path": "/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
+      "genre_ids": [18, 10749],
       "id": 1010581,
       "original_language": "es",
       "original_title": "Culpa mía",
@@ -1832,10 +1482,7 @@
       "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
       "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 163.626,
       "release_date": "2001-11-16",
       "video": false,
@@ -1852,10 +1499,7 @@
       "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
       "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 120.801,
       "release_date": "2002-11-13",
       "video": false,
@@ -1872,10 +1516,7 @@
       "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
       "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 141.1,
       "release_date": "2004-05-31",
       "video": false,
@@ -1892,10 +1533,7 @@
       "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
       "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 124.244,
       "release_date": "2005-11-16",
       "video": false,
@@ -1912,10 +1550,7 @@
       "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
       "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 126.624,
       "release_date": "2007-07-08",
       "video": false,
@@ -1932,10 +1567,7 @@
       "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
       "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 119.418,
       "release_date": "2009-07-15",
       "video": false,
@@ -1952,10 +1584,7 @@
       "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
       "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 130.713,
       "release_date": "2010-11-17",
       "video": false,
@@ -1972,10 +1601,7 @@
       "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
       "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        14,
-        12
-      ],
+      "genre_ids": [14, 12],
       "popularity": 126.188,
       "release_date": "2011-07-12",
       "video": false,
@@ -1985,10 +1611,7 @@
     {
       "adult": false,
       "backdrop_path": "/rLzI2zmzOMONX7lTd7OVTs4hpUW.jpg",
-      "genre_ids": [
-        99,
-        9648
-      ],
+      "genre_ids": [99, 9648],
       "id": 1228230,
       "original_language": "en",
       "original_title": "The Ark and the Darkness",
@@ -2004,9 +1627,7 @@
     {
       "adult": false,
       "backdrop_path": "/ltuyJmW2jaLnULbGZMXIJNrUQ5s.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1247154,
       "original_language": "sv",
       "original_title": "Young Royals Forever",
@@ -2022,9 +1643,7 @@
     {
       "adult": false,
       "backdrop_path": "/pF0LGTwMbteQV6PFL4AquYsUAZD.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1214523,
       "original_language": "en",
       "original_title": "Frida",
@@ -2040,9 +1659,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1246596,
       "original_language": "en",
       "original_title": "The Walking Dead: The Return",
@@ -2058,11 +1675,7 @@
     {
       "adult": false,
       "backdrop_path": "/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
-      "genre_ids": [
-        99,
-        10752,
-        36
-      ],
+      "genre_ids": [99, 10752, 36],
       "id": 1251636,
       "original_language": "en",
       "original_title": "The Bloody Hundredth",
@@ -2078,9 +1691,7 @@
     {
       "adult": false,
       "backdrop_path": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 899082,
       "original_language": "en",
       "original_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
@@ -2096,9 +1707,7 @@
     {
       "adult": false,
       "backdrop_path": "/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 961651,
       "original_language": "en",
       "original_title": "Spider-Man: All Roads Lead to No Way Home",
@@ -2114,9 +1723,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 645488,
       "original_language": "en",
       "original_title": "Aquaman: Heroines of Atlantis",
@@ -2132,9 +1739,7 @@
     {
       "adult": false,
       "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1059673,
       "original_language": "en",
       "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
@@ -2150,9 +1755,7 @@
     {
       "adult": false,
       "backdrop_path": "/y1BomwRA41Cr8s69G9vVQRjwllp.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 691179,
       "original_language": "en",
       "original_title": "Friends: The Reunion",
@@ -2168,9 +1771,7 @@
     {
       "adult": false,
       "backdrop_path": "/5cnbmWWnzC2L0CbOYZDeCWbHHJP.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 324558,
       "original_language": "en",
       "original_title": "X-Rated: The Greatest Adult Movies of All Time",
@@ -2186,10 +1787,7 @@
     {
       "adult": false,
       "backdrop_path": "/tU3mnpFLOAp2Ia6vHvGIw8ewJQb.jpg",
-      "genre_ids": [
-        10402,
-        99
-      ],
+      "genre_ids": [10402, 99],
       "id": 1041513,
       "original_language": "en",
       "original_title": "Encanto at the Hollywood Bowl",
@@ -2205,9 +1803,7 @@
     {
       "adult": false,
       "backdrop_path": "/fh022Zgyoq1UzxshTObNLjQ2JoC.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1232289,
       "original_language": "es",
       "original_title": "La sociedad de la nieve: ¿Quiénes fuimos en la montaña?",
@@ -2223,9 +1819,7 @@
     {
       "adult": false,
       "backdrop_path": "/ifGs4hSnqTCFmhJqCGe5Ec0cTe5.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1025169,
       "original_language": "th",
       "original_title": "13 หมูป่า: เรื่องเล่าจากในถ้ำ",
@@ -2241,9 +1835,7 @@
     {
       "adult": false,
       "backdrop_path": "/E2qITsMjBW19HUuezmzvEY5NqZ.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 416148,
       "original_language": "fr",
       "original_title": "Rocco",
@@ -2259,9 +1851,7 @@
     {
       "adult": false,
       "backdrop_path": "/yeHlWPuXOSqTlzVBEovH7SeEKLr.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1231942,
       "original_language": "en",
       "original_title": "Giannis: The Marvelous Journey",
@@ -2277,9 +1867,7 @@
     {
       "adult": false,
       "backdrop_path": "/p4r3FHgoELOxIoYlF9QVUBskfIQ.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 124623,
       "original_language": "en",
       "original_title": "I Know That Voice",
@@ -2295,10 +1883,7 @@
     {
       "adult": false,
       "backdrop_path": "/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
-      "genre_ids": [
-        99,
-        10752
-      ],
+      "genre_ids": [99, 10752],
       "id": 1058616,
       "original_language": "en",
       "original_title": "20 Days in Mariupol",
@@ -2314,9 +1899,7 @@
     {
       "adult": false,
       "backdrop_path": "/8JSGsrLOrfAGgLtOCankKcsn6Ak.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 139302,
       "original_language": "en",
       "original_title": "The Bitter Buddha",
@@ -2332,9 +1915,7 @@
     {
       "adult": false,
       "backdrop_path": "/fG5U8sQ2GHK4axzuLgH0bq8mddE.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 109520,
       "original_language": "en",
       "original_title": "After Porn Ends",
@@ -2346,37 +1927,13 @@
       "video": false,
       "vote_average": 5.645,
       "vote_count": 255
-    },
-    {
-      "title": "",
-      "release_date": "",
-      "overview": "",
-      "poster_path": "",
-      "genre_ids": [
-        0
-      ],
-      "id": 1251637
-    },
-    {
-      "title": "",
-      "release_date": "",
-      "overview": "",
-      "poster_path": "",
-      "genre_ids": [
-        28
-      ],
-      "id": 1251638
     }
   ],
   "movies-backup": [
     {
       "adult": false,
       "backdrop_path": "/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
-      "genre_ids": [
-        878,
-        10749,
-        35
-      ],
+      "genre_ids": [878, 10749, 35],
       "id": 792307,
       "original_language": "en",
       "original_title": "Poor Things",
@@ -2392,13 +1949,7 @@
     {
       "adult": false,
       "backdrop_path": "/gJL5kp5FMopB2sN4WZYnNT5uO0u.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        35,
-        10751
-      ],
+      "genre_ids": [28, 12, 16, 35, 10751],
       "id": 1011985,
       "original_language": "en",
       "original_title": "Kung Fu Panda 4",
@@ -2414,11 +1965,7 @@
     {
       "adult": false,
       "backdrop_path": "/xvk5AhfhgQcTuaCQyq3XqAnhEma.jpg",
-      "genre_ids": [
-        28,
-        12,
-        35
-      ],
+      "genre_ids": [28, 12, 35],
       "id": 848538,
       "original_language": "en",
       "original_title": "Argylle",
@@ -2434,11 +1981,7 @@
     {
       "adult": false,
       "backdrop_path": "/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
-      "genre_ids": [
-        28,
-        27,
-        53
-      ],
+      "genre_ids": [28, 27, 53],
       "id": 1096197,
       "original_language": "pt",
       "original_title": "No Way Up",
@@ -2454,11 +1997,7 @@
     {
       "adult": false,
       "backdrop_path": "/3Kzc6V4MWs3RXCmE5DhAYnfWL8F.jpg",
-      "genre_ids": [
-        16,
-        35,
-        878
-      ],
+      "genre_ids": [16, 35, 878],
       "id": 1239251,
       "original_language": "en",
       "original_title": "Megamind vs. the Doom Syndicate",
@@ -2474,11 +2013,7 @@
     {
       "adult": false,
       "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
-      "genre_ids": [
-        878,
-        28,
-        80
-      ],
+      "genre_ids": [878, 28, 80],
       "id": 932420,
       "original_language": "en",
       "original_title": "Code 8 Part II",
@@ -2494,10 +2029,7 @@
     {
       "adult": false,
       "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
-      "genre_ids": [
-        18,
-        36
-      ],
+      "genre_ids": [18, 36],
       "id": 872585,
       "original_language": "en",
       "original_title": "Oppenheimer",
@@ -2513,10 +2045,7 @@
     {
       "adult": false,
       "backdrop_path": "/8uVKfOJUhmybNsVh089EqLHUYEG.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
+      "genre_ids": [878, 12],
       "id": 693134,
       "original_language": "en",
       "original_title": "Dune: Part Two",
@@ -2532,13 +2061,7 @@
     {
       "adult": false,
       "backdrop_path": "/meyhnvssZOPPjud4F1CjOb4snET.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        35,
-        10751
-      ],
+      "genre_ids": [16, 28, 12, 35, 10751],
       "id": 940551,
       "original_language": "en",
       "original_title": "Migration",
@@ -2554,11 +2077,7 @@
     {
       "adult": false,
       "backdrop_path": "/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
-      "genre_ids": [
-        28,
-        53,
-        10752
-      ],
+      "genre_ids": [28, 53, 10752],
       "id": 969492,
       "original_language": "en",
       "original_title": "Land of Bad",
@@ -2574,10 +2093,7 @@
     {
       "adult": false,
       "backdrop_path": "/cu5Qk2QHxOyyMrD3Bq93DxgmJer.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
+      "genre_ids": [28, 80],
       "id": 1046090,
       "original_language": "zh",
       "original_title": "周處除三害",
@@ -2593,11 +2109,7 @@
     {
       "adult": false,
       "backdrop_path": "/midCh3iVxaG3dUOrP9TnUpNcGm.jpg",
-      "genre_ids": [
-        16,
-        12,
-        14
-      ],
+      "genre_ids": [16, 12, 14],
       "id": 508883,
       "original_language": "ja",
       "original_title": "君たちはどう生きるか",
@@ -2613,11 +2125,7 @@
     {
       "adult": false,
       "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
-      "genre_ids": [
-        14,
-        12,
-        28
-      ],
+      "genre_ids": [14, 12, 28],
       "id": 763215,
       "original_language": "en",
       "original_title": "Damsel",
@@ -2633,10 +2141,7 @@
     {
       "adult": false,
       "backdrop_path": "/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
+      "genre_ids": [35, 10749],
       "id": 1072790,
       "original_language": "en",
       "original_title": "Anyone But You",
@@ -2652,10 +2157,7 @@
     {
       "adult": false,
       "backdrop_path": "/hIUs8RzKlrzgbWxn2EpWmiTFqCc.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
+      "genre_ids": [878, 53],
       "id": 870404,
       "original_language": "en",
       "original_title": "Meteor",
@@ -2671,12 +2173,7 @@
     {
       "adult": false,
       "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
-      "genre_ids": [
-        10751,
-        878,
-        28,
-        35
-      ],
+      "genre_ids": [10751, 878, 28, 35],
       "id": 1094556,
       "original_language": "en",
       "original_title": "The Thundermans Return",
@@ -2692,10 +2189,7 @@
     {
       "adult": false,
       "backdrop_path": "/G56AzECyTDp63sE7CbJ6AEBKhF.jpg",
-      "genre_ids": [
-        37,
-        28
-      ],
+      "genre_ids": [37, 28],
       "id": 851925,
       "original_language": "en",
       "original_title": "Death Alley",
@@ -2711,10 +2205,7 @@
     {
       "adult": false,
       "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
+      "genre_ids": [878, 12],
       "id": 438631,
       "original_language": "en",
       "original_title": "Dune",
@@ -2730,10 +2221,7 @@
     {
       "adult": false,
       "backdrop_path": "/wqmemsQb8xcLVQkwt8WTYnMIYms.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 1217409,
       "original_language": "es",
       "original_title": "Jaque Mate",
@@ -2749,12 +2237,7 @@
     {
       "adult": false,
       "backdrop_path": "/s9YTxwaByYeoSqugYjJJtZjMRAG.jpg",
-      "genre_ids": [
-        28,
-        27,
-        35,
-        53
-      ],
+      "genre_ids": [28, 27, 35, 53],
       "id": 1211483,
       "original_language": "en",
       "original_title": "Skal - Fight for Survival",
@@ -2770,11 +2253,7 @@
     {
       "adult": false,
       "backdrop_path": "/sR0SpCrXamlIkYMdfz83sFn5JS6.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
+      "genre_ids": [28, 878, 12],
       "id": 823464,
       "original_language": "en",
       "original_title": "Godzilla x Kong: The New Empire",
@@ -2790,11 +2269,7 @@
     {
       "adult": false,
       "backdrop_path": "/sKdDC38FHuPvEsRgIzMEQE6ydol.jpg",
-      "genre_ids": [
-        53,
-        27,
-        18
-      ],
+      "genre_ids": [53, 27, 18],
       "id": 714567,
       "original_language": "ru",
       "original_title": "#хочувигру",
@@ -2810,11 +2285,7 @@
     {
       "adult": false,
       "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
-      "genre_ids": [
-        80,
-        28,
-        53
-      ],
+      "genre_ids": [80, 28, 53],
       "id": 1227816,
       "original_language": "en",
       "original_title": "Red Right Hand",
@@ -2830,9 +2301,7 @@
     {
       "adult": false,
       "backdrop_path": "/5lhkwyuxSyElspMjAVZPUFg20b3.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 1058078,
       "original_language": "sv",
       "original_title": "Karusell",
@@ -2848,11 +2317,7 @@
     {
       "adult": false,
       "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
+      "genre_ids": [878, 12, 28],
       "id": 609681,
       "original_language": "en",
       "original_title": "The Marvels",
@@ -2868,11 +2333,7 @@
     {
       "adult": false,
       "backdrop_path": "/ruKNVJFViAyR4jguVboFXTskMOe.jpg",
-      "genre_ids": [
-        53,
-        28,
-        27
-      ],
+      "genre_ids": [53, 28, 27],
       "id": 1028703,
       "original_language": "en",
       "original_title": "The OctoGames",
@@ -2888,11 +2349,7 @@
     {
       "adult": false,
       "backdrop_path": "/mmpnUZebJhFXewEUuP7OGM4GuNF.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
+      "genre_ids": [878, 12, 18],
       "id": 636706,
       "original_language": "en",
       "original_title": "Spaceman",
@@ -2908,9 +2365,7 @@
     {
       "adult": false,
       "backdrop_path": "/xHd6rARprd4woZinkziIntiTSZD.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 854188,
       "original_language": "en",
       "original_title": "The Kindred",
@@ -2926,11 +2381,7 @@
     {
       "adult": false,
       "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
-      "genre_ids": [
-        28,
-        53,
-        18
-      ],
+      "genre_ids": [28, 53, 18],
       "id": 866398,
       "original_language": "en",
       "original_title": "The Beekeeper",
@@ -2946,11 +2397,7 @@
     {
       "adult": false,
       "backdrop_path": "/mOQV573Tr0WxI2VVOLKwtfaRGZH.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        12
-      ],
+      "genre_ids": [10749, 35, 12],
       "id": 949429,
       "original_language": "th",
       "original_title": "ผจญภัยล่าขุมทรัพย์หมื่นลี้",
@@ -2966,11 +2413,7 @@
     {
       "adult": false,
       "backdrop_path": "/xStFwzqBWDRyUz3BldisuUY7kjW.jpg",
-      "genre_ids": [
-        14,
-        12,
-        10770
-      ],
+      "genre_ids": [14, 12, 10770],
       "id": 885303,
       "original_language": "it",
       "original_title": "I viaggiatori",
@@ -2986,11 +2429,7 @@
     {
       "adult": false,
       "backdrop_path": "/oijKQd7jcaAwq3aLoUiGo1abeV3.jpg",
-      "genre_ids": [
-        53,
-        27,
-        878
-      ],
+      "genre_ids": [53, 27, 878],
       "id": 949697,
       "original_language": "th",
       "original_title": "The One Hundred",
@@ -3006,11 +2445,7 @@
     {
       "adult": false,
       "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
-      "genre_ids": [
-        28,
-        18,
-        80
-      ],
+      "genre_ids": [28, 18, 80],
       "id": 944401,
       "original_language": "en",
       "original_title": "Dogman",
@@ -3026,10 +2461,7 @@
     {
       "adult": false,
       "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 931642,
       "original_language": "en",
       "original_title": "Lights Out",
@@ -3045,11 +2477,7 @@
     {
       "adult": false,
       "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
+      "genre_ids": [28, 12, 14],
       "id": 572802,
       "original_language": "en",
       "original_title": "Aquaman and the Lost Kingdom",
@@ -3065,9 +2493,7 @@
     {
       "adult": false,
       "backdrop_path": "/xiAyufulheAWDWuZPVvV3Q9LIXc.jpg",
-      "genre_ids": [
-        28
-      ],
+      "genre_ids": [28],
       "id": 799710,
       "original_language": "ko",
       "original_title": "더 와일드: 야수들의 전쟁",
@@ -3083,12 +2509,7 @@
     {
       "adult": false,
       "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14,
-        12
-      ],
+      "genre_ids": [16, 10751, 14, 12],
       "id": 1022796,
       "original_language": "en",
       "original_title": "Wish",
@@ -3104,11 +2525,7 @@
     {
       "adult": false,
       "backdrop_path": "/88jdqvwNV6uJx8Y9V4zvoN30MuY.jpg",
-      "genre_ids": [
-        878,
-        27,
-        28
-      ],
+      "genre_ids": [878, 27, 28],
       "id": 940721,
       "original_language": "ja",
       "original_title": "ゴジラ-1.0",
@@ -3124,10 +2541,7 @@
     {
       "adult": false,
       "backdrop_path": "/pWsD91G2R1Da3AKM3ymr3UoIfRb.jpg",
-      "genre_ids": [
-        878,
-        28
-      ],
+      "genre_ids": [878, 28],
       "id": 933131,
       "original_language": "ko",
       "original_title": "황야",
@@ -3143,10 +2557,7 @@
     {
       "adult": false,
       "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
-      "genre_ids": [
-        80,
-        28
-      ],
+      "genre_ids": [80, 28],
       "id": 370464,
       "original_language": "en",
       "original_title": "The Masked Saint",
@@ -3162,12 +2573,7 @@
     {
       "adult": false,
       "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
-      "genre_ids": [
-        16,
-        35,
-        18,
-        10751
-      ],
+      "genre_ids": [16, 35, 18, 10751],
       "id": 838240,
       "original_language": "xx",
       "original_title": "Robot Dreams",
@@ -3183,13 +2589,7 @@
     {
       "adult": false,
       "backdrop_path": "/7gEfOcnoP2wAgtd7FYPsJopvJZ1.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18,
-        12,
-        14
-      ],
+      "genre_ids": [16, 10751, 18, 12, 14],
       "id": 1022789,
       "original_language": "en",
       "original_title": "Inside Out 2",
@@ -3205,10 +2605,7 @@
     {
       "adult": false,
       "backdrop_path": "/i1Lx1Whonfh8awXkYx3bGinK2V8.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 872542,
       "original_language": "en",
       "original_title": "Agent Game",
@@ -3224,9 +2621,7 @@
     {
       "adult": false,
       "backdrop_path": "/jkBFGhuJKLH8VurXqVKQ2mxvVYC.jpg",
-      "genre_ids": [
-        37
-      ],
+      "genre_ids": [37],
       "id": 1079394,
       "original_language": "en",
       "original_title": "The Five",
@@ -3242,10 +2637,7 @@
     {
       "adult": false,
       "backdrop_path": "/zBm5QbduooRO8XYZB19SP1JJZe3.jpg",
-      "genre_ids": [
-        16,
-        10751
-      ],
+      "genre_ids": [16, 10751],
       "id": 1205781,
       "original_language": "en",
       "original_title": "Dora: Say Hola to Adventure!",
@@ -3261,10 +2653,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        16,
-        14
-      ],
+      "genre_ids": [16, 14],
       "id": 59300,
       "original_language": "ja",
       "original_title": "デンゼルを中心としたオリジナルアニメ",
@@ -3280,13 +2669,7 @@
     {
       "adult": false,
       "backdrop_path": "/d1RHScaZc7I8j0lDke1c4AxI435.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        10751,
-        35
-      ],
+      "genre_ids": [28, 12, 16, 10751, 35],
       "id": 9502,
       "original_language": "en",
       "original_title": "Kung Fu Panda",
@@ -3302,11 +2685,7 @@
     {
       "adult": false,
       "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
+      "genre_ids": [28, 80, 53],
       "id": 385687,
       "original_language": "en",
       "original_title": "Fast X",
@@ -3322,10 +2701,7 @@
     {
       "adult": false,
       "backdrop_path": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 1029575,
       "original_language": "en",
       "original_title": "The Family Plan",
@@ -3341,10 +2717,7 @@
     {
       "adult": false,
       "backdrop_path": "/oK29TJvtWzzYFWWPBq1RGfb8FMS.jpg",
-      "genre_ids": [
-        27,
-        878
-      ],
+      "genre_ids": [27, 878],
       "id": 1207413,
       "original_language": "es",
       "original_title": "Dark Parasite",
@@ -3360,11 +2733,7 @@
     {
       "adult": false,
       "backdrop_path": "/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg",
-      "genre_ids": [
-        10402,
-        36,
-        18
-      ],
+      "genre_ids": [10402, 36, 18],
       "id": 802219,
       "original_language": "en",
       "original_title": "Bob Marley: One Love",
@@ -3380,11 +2749,7 @@
     {
       "adult": false,
       "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
-      "genre_ids": [
-        18,
-        878,
-        28
-      ],
+      "genre_ids": [18, 878, 28],
       "id": 695721,
       "original_language": "en",
       "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
@@ -3400,11 +2765,7 @@
     {
       "adult": false,
       "backdrop_path": "/ba9TgAO4I8RyA2LljzR3MspHaM9.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
+      "genre_ids": [28, 878, 53],
       "id": 799155,
       "original_language": "hi",
       "original_title": "Attack",
@@ -3420,9 +2781,7 @@
     {
       "adult": false,
       "backdrop_path": "/d2d0njdp19FbuOGTW1dbrVMJpTH.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 980137,
       "original_language": "es",
       "original_title": "Papá o Mamá",
@@ -3438,10 +2797,7 @@
     {
       "adult": false,
       "backdrop_path": "/spsQPNKFwrvpFs7qyQz24Oh0Mhc.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
+      "genre_ids": [27, 53],
       "id": 823491,
       "original_language": "en",
       "original_title": "Out of Darkness",
@@ -3457,12 +2813,7 @@
     {
       "adult": false,
       "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [16, 28, 12, 878],
       "id": 569094,
       "original_language": "en",
       "original_title": "Spider-Man: Across the Spider-Verse",
@@ -3478,11 +2829,7 @@
     {
       "adult": false,
       "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
-      "genre_ids": [
-        9648,
-        27,
-        53
-      ],
+      "genre_ids": [9648, 27, 53],
       "id": 838209,
       "original_language": "ko",
       "original_title": "파묘",
@@ -3498,11 +2845,7 @@
     {
       "adult": false,
       "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [28, 12, 878],
       "id": 667538,
       "original_language": "en",
       "original_title": "Transformers: Rise of the Beasts",
@@ -3518,9 +2861,7 @@
     {
       "adult": false,
       "backdrop_path": "/rmV6gnPC9LqNWOKzwd8jQe8Ljcw.jpg",
-      "genre_ids": [
-        27
-      ],
+      "genre_ids": [27],
       "id": 1196646,
       "original_language": "en",
       "original_title": "Camp Pleasant Lake",
@@ -3536,10 +2877,7 @@
     {
       "adult": false,
       "backdrop_path": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
+      "genre_ids": [27, 53],
       "id": 983526,
       "original_language": "no",
       "original_title": "Leave",
@@ -3555,11 +2893,7 @@
     {
       "adult": false,
       "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
+      "genre_ids": [878, 12, 28],
       "id": 76600,
       "original_language": "en",
       "original_title": "Avatar: The Way of Water",
@@ -3575,13 +2909,7 @@
     {
       "adult": false,
       "backdrop_path": "/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        35,
-        10751
-      ],
+      "genre_ids": [28, 12, 16, 35, 10751],
       "id": 140300,
       "original_language": "en",
       "original_title": "Kung Fu Panda 3",
@@ -3597,11 +2925,7 @@
     {
       "adult": false,
       "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
+      "genre_ids": [28, 12, 878],
       "id": 634649,
       "original_language": "en",
       "original_title": "Spider-Man: No Way Home",
@@ -3617,11 +2941,7 @@
     {
       "adult": false,
       "backdrop_path": "/9xvBGz7wYjK5faoeXDIaBB9EYDx.jpg",
-      "genre_ids": [
-        10749,
-        18,
-        35
-      ],
+      "genre_ids": [10749, 18, 35],
       "id": 1139566,
       "original_language": "es",
       "original_title": "A través de mi ventana 3: A través de tu mirada",
@@ -3637,10 +2957,7 @@
     {
       "adult": false,
       "backdrop_path": "/u0P5drNyTrZoGyJONPcZGbv1mNP.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 1124127,
       "original_language": "en",
       "original_title": "Air Force One Down",
@@ -3656,11 +2973,7 @@
     {
       "adult": false,
       "backdrop_path": "/33pMXav77ICRnceEBLhL8lXTywv.jpg",
-      "genre_ids": [
-        18,
-        36,
-        10752
-      ],
+      "genre_ids": [18, 36, 10752],
       "id": 753342,
       "original_language": "en",
       "original_title": "Napoleon",
@@ -3676,11 +2989,7 @@
     {
       "adult": false,
       "backdrop_path": "/qPwA2tXV8fGXfOVYu3aIgctzqtB.jpg",
-      "genre_ids": [
-        14,
-        12,
-        35
-      ],
+      "genre_ids": [14, 12, 35],
       "id": 967847,
       "original_language": "en",
       "original_title": "Ghostbusters: Frozen Empire",
@@ -3696,11 +3005,7 @@
     {
       "adult": false,
       "backdrop_path": "/fgw4rFs4XMWdJTWp1eMacHKQqbZ.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
+      "genre_ids": [28, 53, 80],
       "id": 603692,
       "original_language": "en",
       "original_title": "John Wick: Chapter 4",
@@ -3716,12 +3021,7 @@
     {
       "adult": false,
       "backdrop_path": "/zLj0peaxy5y2SlC6wNIQ4V0pfqg.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        35,
-        14
-      ],
+      "genre_ids": [16, 10751, 35, 14],
       "id": 1139829,
       "original_language": "en",
       "original_title": "Orion and the Dark",
@@ -3737,9 +3037,7 @@
     {
       "adult": false,
       "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 1022690,
       "original_language": "en",
       "original_title": "Ricky Stanicky",
@@ -3755,10 +3053,7 @@
     {
       "adult": false,
       "backdrop_path": "/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
+      "genre_ids": [28, 35],
       "id": 897087,
       "original_language": "en",
       "original_title": "Freelance",
@@ -3774,10 +3069,7 @@
     {
       "adult": false,
       "backdrop_path": "/q6y5cjHFiFBEb7ILYrEllOiC4ww.jpg",
-      "genre_ids": [
-        27,
-        18
-      ],
+      "genre_ids": [27, 18],
       "id": 880100,
       "original_language": "en",
       "original_title": "Fear",
@@ -3793,11 +3085,7 @@
     {
       "adult": false,
       "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53
-      ],
+      "genre_ids": [28, 12, 53],
       "id": 299054,
       "original_language": "en",
       "original_title": "Expend4bles",
@@ -3813,10 +3101,7 @@
     {
       "adult": false,
       "backdrop_path": "/8GixN6c1VWOWDwm32ehb0ufeal.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
+      "genre_ids": [18, 10749],
       "id": 1241748,
       "original_language": "tl",
       "original_title": "Kalikot",
@@ -3832,10 +3117,7 @@
     {
       "adult": false,
       "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
-      "genre_ids": [
-        35,
-        12
-      ],
+      "genre_ids": [35, 12],
       "id": 346698,
       "original_language": "en",
       "original_title": "Barbie",
@@ -3851,11 +3133,7 @@
     {
       "adult": false,
       "backdrop_path": "/zUY1WawCBY8y6YBoiUCAmUorXfx.jpg",
-      "genre_ids": [
-        14,
-        28,
-        12
-      ],
+      "genre_ids": [14, 28, 12],
       "id": 528656,
       "original_language": "zh",
       "original_title": "战神纪",
@@ -3871,10 +3149,7 @@
     {
       "adult": false,
       "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
+      "genre_ids": [28, 53],
       "id": 575264,
       "original_language": "en",
       "original_title": "Mission: Impossible - Dead Reckoning Part One",
@@ -3890,9 +3165,7 @@
     {
       "adult": false,
       "backdrop_path": "/unvtbkgxh47BewQ8pENvdOdme0r.jpg",
-      "genre_ids": [
-        28
-      ],
+      "genre_ids": [28],
       "id": 1212073,
       "original_language": "de",
       "original_title": "60 Minuten",
@@ -3908,14 +3181,7 @@
     {
       "adult": false,
       "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
-      "genre_ids": [
-        16,
-        12,
-        14,
-        35,
-        28,
-        10751
-      ],
+      "genre_ids": [16, 12, 14, 35, 28, 10751],
       "id": 315162,
       "original_language": "en",
       "original_title": "Puss in Boots: The Last Wish",
@@ -3931,11 +3197,7 @@
     {
       "adult": false,
       "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
-      "genre_ids": [
-        28,
-        878,
-        27
-      ],
+      "genre_ids": [28, 878, 27],
       "id": 615656,
       "original_language": "en",
       "original_title": "Meg 2: The Trench",
@@ -3951,11 +3213,7 @@
     {
       "adult": false,
       "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
-      "genre_ids": [
-        80,
-        36,
-        18
-      ],
+      "genre_ids": [80, 36, 18],
       "id": 466420,
       "original_language": "en",
       "original_title": "Killers of the Flower Moon",
@@ -3971,11 +3229,7 @@
     {
       "adult": false,
       "backdrop_path": "/rz8GGX5Id2hCW1KzAIY4xwbQw1w.jpg",
-      "genre_ids": [
-        28,
-        35,
-        80
-      ],
+      "genre_ids": [28, 35, 80],
       "id": 955916,
       "original_language": "en",
       "original_title": "Lift",
@@ -3991,14 +3245,7 @@
     {
       "adult": false,
       "backdrop_path": "/pA4sNvcohTNPx3AhEEeIu8gSt7h.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        14,
-        10749,
-        12
-      ],
+      "genre_ids": [16, 35, 10751, 14, 10749, 12],
       "id": 976573,
       "original_language": "en",
       "original_title": "Elemental",
@@ -4014,13 +3261,7 @@
     {
       "adult": false,
       "backdrop_path": "/zMtBbNhROxPf0urHSBoZUnqJEwT.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        10402,
-        14,
-        35
-      ],
+      "genre_ids": [16, 10751, 10402, 14, 35],
       "id": 901362,
       "original_language": "en",
       "original_title": "Trolls Band Together",
@@ -4036,10 +3277,7 @@
     {
       "adult": false,
       "backdrop_path": "/1QuloKG6VhFB94BhjX7VknKsNmZ.jpg",
-      "genre_ids": [
-        18,
-        53
-      ],
+      "genre_ids": [18, 53],
       "id": 1026436,
       "original_language": "en",
       "original_title": "Miller's Girl",
@@ -4055,13 +3293,7 @@
     {
       "adult": false,
       "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        12,
-        18,
-        35
-      ],
+      "genre_ids": [16, 10751, 12, 18, 35],
       "id": 150540,
       "original_language": "en",
       "original_title": "Inside Out",
@@ -4077,9 +3309,7 @@
     {
       "adult": false,
       "backdrop_path": "/dmiN2rakG9hZW04Xx7mHOoHTOyD.jpg",
-      "genre_ids": [
-        35
-      ],
+      "genre_ids": [35],
       "id": 673593,
       "original_language": "en",
       "original_title": "Mean Girls",
@@ -4095,11 +3325,7 @@
     {
       "adult": false,
       "backdrop_path": "/sRLC052ieEzkQs9dEtPMfFxYkej.jpg",
-      "genre_ids": [
-        878,
-        18,
-        28
-      ],
+      "genre_ids": [878, 18, 28],
       "id": 848326,
       "original_language": "en",
       "original_title": "Rebel Moon - Part One: A Child of Fire",
@@ -4115,11 +3341,7 @@
     {
       "adult": false,
       "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
+      "genre_ids": [12, 28, 878],
       "id": 299536,
       "original_language": "en",
       "original_title": "Avengers: Infinity War",
@@ -4135,11 +3357,7 @@
     {
       "adult": false,
       "backdrop_path": "/cazclcMhoYpHbuZb00bvby7xcXY.jpg",
-      "genre_ids": [
-        53,
-        28,
-        18
-      ],
+      "genre_ids": [53, 28, 18],
       "id": 1183905,
       "original_language": "de",
       "original_title": "Trunk - Locked In",
@@ -4155,11 +3373,7 @@
     {
       "adult": false,
       "backdrop_path": "/y3A08SqEHqIvelH304qz4GUTLnx.jpg",
-      "genre_ids": [
-        80,
-        53,
-        28
-      ],
+      "genre_ids": [80, 53, 28],
       "id": 982940,
       "original_language": "en",
       "original_title": "Due Justice",
@@ -4175,10 +3389,7 @@
     {
       "adult": false,
       "backdrop_path": "/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
+      "genre_ids": [18, 10749],
       "id": 1010581,
       "original_language": "es",
       "original_title": "Culpa mía",
@@ -4201,10 +3412,7 @@
       "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
       "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 163.626,
       "release_date": "2001-11-16",
       "video": false,
@@ -4221,10 +3429,7 @@
       "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
       "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 120.801,
       "release_date": "2002-11-13",
       "video": false,
@@ -4241,10 +3446,7 @@
       "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
       "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 141.1,
       "release_date": "2004-05-31",
       "video": false,
@@ -4261,10 +3463,7 @@
       "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
       "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 124.244,
       "release_date": "2005-11-16",
       "video": false,
@@ -4281,10 +3480,7 @@
       "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
       "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 126.624,
       "release_date": "2007-07-08",
       "video": false,
@@ -4301,10 +3497,7 @@
       "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
       "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 119.418,
       "release_date": "2009-07-15",
       "video": false,
@@ -4321,10 +3514,7 @@
       "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
       "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        12,
-        14
-      ],
+      "genre_ids": [12, 14],
       "popularity": 130.713,
       "release_date": "2010-11-17",
       "video": false,
@@ -4341,10 +3531,7 @@
       "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
       "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
       "media_type": "movie",
-      "genre_ids": [
-        14,
-        12
-      ],
+      "genre_ids": [14, 12],
       "popularity": 126.188,
       "release_date": "2011-07-12",
       "video": false,
@@ -4354,10 +3541,7 @@
     {
       "adult": false,
       "backdrop_path": "/rLzI2zmzOMONX7lTd7OVTs4hpUW.jpg",
-      "genre_ids": [
-        99,
-        9648
-      ],
+      "genre_ids": [99, 9648],
       "id": 1228230,
       "original_language": "en",
       "original_title": "The Ark and the Darkness",
@@ -4373,9 +3557,7 @@
     {
       "adult": false,
       "backdrop_path": "/ltuyJmW2jaLnULbGZMXIJNrUQ5s.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1247154,
       "original_language": "sv",
       "original_title": "Young Royals Forever",
@@ -4391,9 +3573,7 @@
     {
       "adult": false,
       "backdrop_path": "/pF0LGTwMbteQV6PFL4AquYsUAZD.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1214523,
       "original_language": "en",
       "original_title": "Frida",
@@ -4409,9 +3589,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1246596,
       "original_language": "en",
       "original_title": "The Walking Dead: The Return",
@@ -4427,11 +3605,7 @@
     {
       "adult": false,
       "backdrop_path": "/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg",
-      "genre_ids": [
-        99,
-        10752,
-        36
-      ],
+      "genre_ids": [99, 10752, 36],
       "id": 1251636,
       "original_language": "en",
       "original_title": "The Bloody Hundredth",
@@ -4447,9 +3621,7 @@
     {
       "adult": false,
       "backdrop_path": "/8rft8A9nH43IReybFtYt21ezfMK.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 899082,
       "original_language": "en",
       "original_title": "Harry Potter 20th Anniversary: Return to Hogwarts",
@@ -4465,9 +3637,7 @@
     {
       "adult": false,
       "backdrop_path": "/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 961651,
       "original_language": "en",
       "original_title": "Spider-Man: All Roads Lead to No Way Home",
@@ -4483,9 +3653,7 @@
     {
       "adult": false,
       "backdrop_path": null,
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 645488,
       "original_language": "en",
       "original_title": "Aquaman: Heroines of Atlantis",
@@ -4501,9 +3669,7 @@
     {
       "adult": false,
       "backdrop_path": "/eoAvHxfbaPOcfiQyjqypWIXWxDr.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1059673,
       "original_language": "en",
       "original_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
@@ -4519,9 +3685,7 @@
     {
       "adult": false,
       "backdrop_path": "/y1BomwRA41Cr8s69G9vVQRjwllp.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 691179,
       "original_language": "en",
       "original_title": "Friends: The Reunion",
@@ -4537,9 +3701,7 @@
     {
       "adult": false,
       "backdrop_path": "/5cnbmWWnzC2L0CbOYZDeCWbHHJP.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 324558,
       "original_language": "en",
       "original_title": "X-Rated: The Greatest Adult Movies of All Time",
@@ -4555,10 +3717,7 @@
     {
       "adult": false,
       "backdrop_path": "/tU3mnpFLOAp2Ia6vHvGIw8ewJQb.jpg",
-      "genre_ids": [
-        10402,
-        99
-      ],
+      "genre_ids": [10402, 99],
       "id": 1041513,
       "original_language": "en",
       "original_title": "Encanto at the Hollywood Bowl",
@@ -4574,9 +3733,7 @@
     {
       "adult": false,
       "backdrop_path": "/fh022Zgyoq1UzxshTObNLjQ2JoC.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1232289,
       "original_language": "es",
       "original_title": "La sociedad de la nieve: ¿Quiénes fuimos en la montaña?",
@@ -4592,9 +3749,7 @@
     {
       "adult": false,
       "backdrop_path": "/ifGs4hSnqTCFmhJqCGe5Ec0cTe5.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1025169,
       "original_language": "th",
       "original_title": "13 หมูป่า: เรื่องเล่าจากในถ้ำ",
@@ -4610,9 +3765,7 @@
     {
       "adult": false,
       "backdrop_path": "/E2qITsMjBW19HUuezmzvEY5NqZ.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 416148,
       "original_language": "fr",
       "original_title": "Rocco",
@@ -4628,9 +3781,7 @@
     {
       "adult": false,
       "backdrop_path": "/yeHlWPuXOSqTlzVBEovH7SeEKLr.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 1231942,
       "original_language": "en",
       "original_title": "Giannis: The Marvelous Journey",
@@ -4646,9 +3797,7 @@
     {
       "adult": false,
       "backdrop_path": "/p4r3FHgoELOxIoYlF9QVUBskfIQ.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 124623,
       "original_language": "en",
       "original_title": "I Know That Voice",
@@ -4664,10 +3813,7 @@
     {
       "adult": false,
       "backdrop_path": "/986n9SAXsuxpPJzFAWK3azPknX0.jpg",
-      "genre_ids": [
-        99,
-        10752
-      ],
+      "genre_ids": [99, 10752],
       "id": 1058616,
       "original_language": "en",
       "original_title": "20 Days in Mariupol",
@@ -4683,9 +3829,7 @@
     {
       "adult": false,
       "backdrop_path": "/8JSGsrLOrfAGgLtOCankKcsn6Ak.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 139302,
       "original_language": "en",
       "original_title": "The Bitter Buddha",
@@ -4701,9 +3845,7 @@
     {
       "adult": false,
       "backdrop_path": "/fG5U8sQ2GHK4axzuLgH0bq8mddE.jpg",
-      "genre_ids": [
-        99
-      ],
+      "genre_ids": [99],
       "id": 109520,
       "original_language": "en",
       "original_title": "After Porn Ends",
